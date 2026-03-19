@@ -35,10 +35,3 @@ This project features an interactive **Power BI Dashboard** designed to analyze 
 3.  **Interact** with the visuals by clicking on the charts or using the slicers on the side.
 
 ---
-
-
-// Total Item Count
-No of Items = COUNTROWS('BlinkIT Grocery Data')
-
-// Average Customer Rating
-Average Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
